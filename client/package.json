@@ -10,7 +10,7 @@
     "mongodb": "^3.2.7",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-native": "^0.59.8",
+    "react-native": "^0.62.3",
     "react-paypal-express-checkout": "^1.0.5",
     "react-router-dom": "^5.0.0",
     "react-scripts": "3.0.1",
